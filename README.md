@@ -11,3 +11,7 @@ pip install -r requirements.txt
 # pip install <> && pip freeze > requirements.txt
 #check
 ```
+
+## QDrant
+after `docker-compose up` you can access the QDrant dashboard at:
+- http://localhost:6333/dashboard
