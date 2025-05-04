@@ -169,4 +169,3 @@ cython_debug/
 submissions.csv
 generated_submissions.csv
 retrieved_docs.csv
-*.csv
